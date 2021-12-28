@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "allowJs": true,
+    "outDir": "js",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2018"
+  },
+  "compileOnSave": true,
+  "include": [
+    "tasks"
+  ]
+}
